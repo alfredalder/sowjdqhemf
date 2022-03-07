@@ -42,7 +42,7 @@ page_좋아하는것
 * 좁은 문 
 * 파우스트 
 * 몬테크리스토 백작 
-* 나니아 연대기 
+* 나니아 연대기(https://book.naver.com/bookdb/book_detail.naver?bid=8339910) 
 * 천로역정
 * 거룩한 전쟁
 * 하얀 늑대들
